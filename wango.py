@@ -197,8 +197,8 @@ def echo(bot, update):
                 
 def decode():
        
-#    updater = Updater("376658228:AAG4DxnElFJQetInxQtdLRoKQNDCEkYftFw")
-    updater = Updater("393007383:AAEtMdzXRtKNbpDfoUZ8qC2u4jjEwyUNmzc")
+
+    updater = Updater("<InsertyourTelegramBotTokenhere>")
     
     	# Get the dispatcher to register handlers
     dp = updater.dispatcher
