@@ -203,8 +203,8 @@ def decode():
     global sess
 
     
-#    updater = Updater("376658228:AAG4DxnElFJQetInxQtdLRoKQNDCEkYftFw")
-    updater = Updater("393007383:AAEtMdzXRtKNbpDfoUZ8qC2u4jjEwyUNmzc")
+
+    updater = Updater("<Insertyourtelegrambottokenhere>")
     
     	# Get the dispatcher to register handlers
     dp = updater.dispatcher
